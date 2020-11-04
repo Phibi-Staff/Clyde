@@ -1,0 +1,39 @@
+The Clyde bot is the gear in our machine that keeps Discord Software running!
+Here are some commands that you will use on a daily basis for using the bot.
+
+_Server Creation_____________________________________________
+To begin with your Discord Server, the bot offers Server Owners with a list of templates for creating their servers in seconds.
+i. \create server | To create or design a server, use this command.
+
+_Information_________________________________________________
+To get started with the bot, you should know that Clyde gives info about all users and bots in Discord.
+i. \whois <userID> | You can get info about any user in discord by replacing <userID> with the desired user’s ID.
+ii. \botinfo <userID>| You can get info about any bot in discord by replacing <userID> with the desired bot’s ID.
+iii. \roleinfo <mention the role>| You can get info about a role in your discord server by replacing <mention the role> with the mentioned role.
+iv. \check dm <userID>: You can get info about any user’s DM enability in discord by replacing <userID> with the desired user’s ID.
+
+_Moderation___________________________________________________
+As the word Bot literally means Moderation, therefore, Clyde offers you with a list of moderation commands.
+i. \timezone <timezone>| Set the timezone for all time commands.
+ii. \set logs channel <channel>| Set the logs channel by replacing <channel> with the desired channel.
+iii. \purge <how many>| Deletes the no. of messages. Note: Logs channel must be set before executing the command.
+
+_Fun___________________________________________________________
+Bots aren’t good if they don’t have fun features, similarly Clyde has something special for you !
+i. \emoji <name>| You can get info of any emote in your discord serverby replacing <name> with the desired emoji’s name. Note: Please exclude (:).
+ii. \roll <1–10>| Clyde rolls the dice and gives you a random number. You need to replace <1–10> with a smaller number-a greater number.
+iii. \invite-info <code>| Clyde will let you get info about the invite just replace <code> with the invite code.
+iv. \auto-react <name> | You can get your message reacted without having Nitro just replace <name> with the desired emoji’s name. Note: Please exclude (:).
+
+_Discord Text Fonts______________________________________________
+Writing text with special fonts, is the most important job, which is made easy by your favourite Clyde.
+i. \font | Get info about all discord fonts.
+ii. \bold <message>| Get a bold message
+iii. \italic <message>| Get a italic message
+iv. \underline <message> | Get a underline message
+v. \code-blocks <message>| Get the message code-blocked.
+vi. \multiline-blocks <message>| Get the message multiline blocked.
+vii. \syntax <message>| Get the message syntax blocked.
+viii.\quote <message>| Get the message quoted.
+ix. \pin <message>| Get the message pinned.
+_______________________________________________________________
